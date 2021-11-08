@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Channel 7</string>
+    <string name="action_exit">Exit</string>
+    <string name="admob_id" translatable="false">a1523b78934292a</string>
+    <string name="buffering">Buffering...</string>
+    <string name="playing">Playing</string>
+    <string name="paused">Paused</string>
+    <string name="stopped">Stopped</string>
+    <string name="mute">Muted</string>
+    
+</resources>

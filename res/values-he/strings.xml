@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ערוץ 7</string>
+    <string name="action_exit">יציאה</string>
+    <string name="buffering">טוען...</string>
+    <string name="playing">מנגן</string>
+    <string name="paused">נגן הושהה</string>
+    <string name="stopped">נגן נעצר</string>
+    <string name="mute">הושתק</string>
+
+</resources>
